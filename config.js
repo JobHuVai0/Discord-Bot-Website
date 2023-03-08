@@ -5,10 +5,10 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "Axime Bit",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/api/oauth2/authorize?client_id=817996987235303444&permissions=825170984016&scope=bot",
   //BotInvite Link
   Features: [
     {
@@ -24,10 +24,10 @@ const config = {
       logo: <SiProbot className="h-10 w-10" />,
     },
     {
-      name: "Automation",
+      name: "Mini Games",
       description:
-        "Automation describes a wide range of technologies that reduce  human intervention in processes.",
-      logo: <TbMessage2Code className="h-10 w-10" />,
+        "",
+" />,
     },
     {
       name: "Welcomer",
