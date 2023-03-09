@@ -26,7 +26,7 @@ const config = {
     {
       name: "Mini Games",
       description:
-        "",
+        "Mini games is a game like owo or dank memer",
 " />,
     },
     {
